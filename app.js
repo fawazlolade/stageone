@@ -21,8 +21,8 @@ app.get('/api', (req, res) => {
     current_day: day,
     utc_time: utcTime,
     track: track,
-    github_file_url: "https://github.com/fawazlolade/hng_Internship/blob/main/stageone/app.js",
-    github_repo_url: "https://github.com/fawazlolade/hng_Internship/tree/main/stageone",
+    github_file_url: "https://github.com/fawazlolade/stageone/blob/main/app.js",
+    github_repo_url: "https://github.com/fawazlolade/stageone/tree/main",
     status_code: 200
     };
 
